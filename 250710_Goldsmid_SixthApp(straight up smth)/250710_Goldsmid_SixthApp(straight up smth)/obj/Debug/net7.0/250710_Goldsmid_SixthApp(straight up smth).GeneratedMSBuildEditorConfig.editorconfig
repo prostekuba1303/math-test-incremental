@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _250710_Goldsmid_SixthApp_straight_up_smth_
+build_property.ProjectDir = C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\

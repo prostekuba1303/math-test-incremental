@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "250710_Goldsmid_SixthApp(straight up smth)/1.0.0": {
+        "runtime": {
+          "250710_Goldsmid_SixthApp(straight up smth).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "250710_Goldsmid_SixthApp(straight up smth)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

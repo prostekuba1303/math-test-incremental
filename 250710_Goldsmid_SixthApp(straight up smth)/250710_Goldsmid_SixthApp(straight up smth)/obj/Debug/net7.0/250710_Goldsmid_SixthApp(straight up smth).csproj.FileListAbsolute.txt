@@ -1,0 +1,15 @@
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).csproj.AssemblyReference.cache
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).AssemblyInfoInputs.cache
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).AssemblyInfo.cs
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).csproj.CoreCompileInputs.cache
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\bin\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).exe
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\bin\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).deps.json
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\bin\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).runtimeconfig.json
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\bin\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).dll
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\bin\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).pdb
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).dll
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\refint\250710_Goldsmid_SixthApp(straight up smth).dll
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).pdb
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\250710_Goldsmid_SixthApp(straight up smth).genruntimeconfig.cache
+C:\Users\navsteva\Desktop\oop\250710_Goldsmid_SixthApp(straight up smth)\250710_Goldsmid_SixthApp(straight up smth)\obj\Debug\net7.0\ref\250710_Goldsmid_SixthApp(straight up smth).dll
