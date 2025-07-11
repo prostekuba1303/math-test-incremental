@@ -36,10 +36,15 @@ namespace _250710_Goldsmid_SixthApp_straight_up_smth_
                         ; break;
                     }
                 }
-                else
+                /*else
                 {
-                    Console.WriteLine("Odkdy se 2 cisla rovnaji pismenku?");
+                    Console.WriteLine("Odkdy se 2 čísla rovnaji písmenku?");
                     break;
+                }
+                */
+                if (i == 1000) 
+                {
+                    Console.WriteLine("jestli ješte legitimately žiješ, tak jsi pure sigma. ale od této chvíle může hra hodit error v případě že bude první číslo menší než to druhé");
                 }
                 
                 
@@ -56,3 +61,4 @@ namespace _250710_Goldsmid_SixthApp_straight_up_smth_
         }
     }
 }
+//sibidibidi bop bop ye ye
