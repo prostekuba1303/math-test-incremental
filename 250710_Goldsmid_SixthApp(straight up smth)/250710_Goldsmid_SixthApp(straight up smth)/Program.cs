@@ -37,6 +37,11 @@ namespace _250710_Goldsmid_SixthApp_straight_up_smth_
                         ; break;
                     }
                 }
+                else
+                {
+                    Console.WriteLine("Odkdy se 2 cisla rovnaji pismenku?");
+                    break;
+                }
                 
                 
 
