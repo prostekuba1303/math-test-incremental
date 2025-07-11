@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navsteva\\Desktop\\oop\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth).csproj",
+      "projectUniqueName": "C:\\Users\\navsteva\\Desktop\\math-test-incremental\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth).csproj",
       "projectName": "250710_Goldsmid_SixthApp(straight up smth)",
-      "projectPath": "C:\\Users\\navsteva\\Desktop\\oop\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth).csproj",
+      "projectPath": "C:\\Users\\navsteva\\Desktop\\math-test-incremental\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth).csproj",
       "packagesPath": "C:\\Users\\navsteva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navsteva\\Desktop\\oop\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth)\\obj\\",
+      "outputPath": "C:\\Users\\navsteva\\Desktop\\math-test-incremental\\250710_Goldsmid_SixthApp(straight up smth)\\250710_Goldsmid_SixthApp(straight up smth)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

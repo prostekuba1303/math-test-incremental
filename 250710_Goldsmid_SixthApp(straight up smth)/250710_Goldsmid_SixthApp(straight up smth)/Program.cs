@@ -9,27 +9,40 @@ namespace _250710_Goldsmid_SixthApp_straight_up_smth_
         {
             Random rnd = new Random();
 
-            int increment1 = 5;
-            int increment2 = 10;
+            int increment1 = 10;//base number 1 and 2
+            int increment2 = 5;
+            char operator1 = '+';//used operator in problem
 
-            int doubleincrement1 = 3;
-            int doubleincrement2 = 6;
+            int doubleincrement1 = 10;//amount of added increment to base number 1 amd 2
+            int doubleincrement2 = 5;
 
-            while (true)
+            int tripleincrement1 = 10;//amount of added increment to double increment 1 and 2
+            int tripleincrement2 = 5;
+
+            for (int i = 1; i > -1; i++)
             {
-                int number1 = rnd.Next(increment1, increment2);
-                char operator1 = '+';
-                int number2 = rnd.Next(increment1, increment2);
-                Console.WriteLine($"what is {number1} {operator1} {number2}");
+                int number1 = rnd.Next(increment2, increment1);//makes the numbers 1 and 2 random
+                int number2 = rnd.Next(increment2, increment1);
+                Console.WriteLine(i);
+                Console.WriteLine($"Kolik je {number1} {operator1} {number2}");
                 Console.ReadLine();
 
-                increment1 = increment1 + doubleincrement1;
+                if (i == 30)
+                {
+                    Console.WriteLine("Špatně!");
+                    Console.WriteLine("Správná odpověď:" + (number1 + number2));
+                    ; break;
+                }
+
+                increment1 = increment1 + doubleincrement1;//buffs the increment gain every loop (caps at some point bc of int limit)
                 increment2 = increment2 + doubleincrement2;
 
-                doubleincrement1 = doubleincrement1 + 5;
-                doubleincrement2 = doubleincrement2 + 10;
-            }
+                doubleincrement1 = doubleincrement1 + tripleincrement1;//buffs the double increment gain
+                doubleincrement2 = doubleincrement2 + tripleincrement2;
 
+                tripleincrement1 = tripleincrement1 + 10;//unexpectedly, buffs the triple increment gain
+                tripleincrement2 = tripleincrement2 + 5;
+            }
         }
     }
 }
