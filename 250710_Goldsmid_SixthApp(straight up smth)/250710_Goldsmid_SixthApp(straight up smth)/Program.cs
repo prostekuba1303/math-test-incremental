@@ -23,16 +23,22 @@ namespace _250710_Goldsmid_SixthApp_straight_up_smth_
             {
                 int number1 = rnd.Next(increment2, increment1);//makes the numbers 1 and 2 random
                 int number2 = rnd.Next(increment2, increment1);
-                Console.WriteLine(i);
+                Console.WriteLine($"{i}. Otázka");
                 Console.WriteLine($"Kolik je {number1} {operator1} {number2}");
-                Console.ReadLine();
-
-                if (i == 30)
+                string odpoved = Console.ReadLine();
+                int odpovedInt;
+                bool success = int.TryParse(odpoved, out odpovedInt);
+                if (success)
                 {
-                    Console.WriteLine("Špatně!");
-                    Console.WriteLine("Správná odpověď:" + (number1 + number2));
-                    ; break;
+                    if (odpovedInt != number1 + number2)
+                    {
+                        Console.WriteLine("Špatně!");
+                        Console.WriteLine("Správná odpověď:" + (number1 + number2));
+                        ; break;
+                    }
                 }
+                
+                
 
                 increment1 = increment1 + doubleincrement1;//buffs the increment gain every loop (caps at some point bc of int limit)
                 increment2 = increment2 + doubleincrement2;
